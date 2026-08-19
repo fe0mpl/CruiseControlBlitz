@@ -1,6 +1,6 @@
 [Перейти на русский](README_RU.md)
 
-# 🚀 CruiseControlBlitz
+# ![Logo](logo.png) CruiseControlBlitz
 
 **Cruise control for World of Tanks Blitz and Tanks Blitz** – a tool that lets you assign separate keys for forward and backward movement, so your tank keeps driving without holding buttons.
 
