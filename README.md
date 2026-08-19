@@ -1,7 +1,7 @@
 [Перейти на русский](README_RU.md)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=CruiseControlBlitz&height=200&fontSize=60&fontAlignY=40&desc=For%20Tanks%20Blitz&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=CruiseControlBlitz&height=200&fontSize=60&fontAlignY=40&desc=World%20of%20Tanks%20Blitz%20%26%20Tanks%20Blitz&descAlignY=65" />
 </p>
 
 **Cruise control for World of Tanks Blitz and Tanks Blitz** – a tool that lets you assign separate keys for forward and backward movement, so your tank keeps driving without holding buttons.
