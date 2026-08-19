@@ -1,4 +1,4 @@
-[🇬🇧 English](README.md) | [🇷🇺 Русский](README_RU.md)
+Choose language: [🇷🇺 Русский](README_RU.md)
 
 # 🚀 CruiseControlBlitz
 
