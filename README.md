@@ -1,6 +1,6 @@
 markdown
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=e31837&color2=8b0000&text=CruiseControlBlitz&height=200&fontSize=50&desc=WoT%20Blitz%20%7C%20Tanks%20Blitz&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=e31837&color2=8b0000&text=CruiseControlBlitz&height=220&fontSize=50&fontAlignY=25&desc=WoT%20Blitz%20%7C%20Tanks%20Blitz&descAlignY=65&fontColor=ffffff" />
 </p>
 
 [Перейти на русский](README_RU.md)
