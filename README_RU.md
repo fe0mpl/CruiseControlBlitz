@@ -1,6 +1,8 @@
 [Go to English](README.md)
 
-# 🚀 CruiseControlBlitz
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=CruiseControlBlitz&height=200&fontSize=50&fontAlignY=35&desc=WoT%20Blitz%20%7C%20Tanks%20Blitz&descAlignY=55" />
+</p>
 
 **Круиз-контроль для World of Tanks Blitz и Tanks Blitz** – программа, которая позволяет назначить отдельные клавиши для движения вперёд и назад, чтобы танк ехал без необходимости постоянно удерживать кнопки.
 
